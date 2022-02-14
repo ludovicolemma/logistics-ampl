@@ -1,5 +1,5 @@
 # The Project
-I used AMPL and CPLEX to solve an optimization problem. In the folder "Project Files" there are the ".dat" and ".mod" AMPL files while the full report I wrote with LaTex is called "Logistics_Project_Report.pdf". <br/>
+I used AMPL and CPLEX to solve an optimization problem. In the folder "AMPL-files" there are the ".dat" and ".mod" AMPL files while the full report I wrote with LaTex is called "Logistics_Project_Report.pdf". <br/>
 The mathematical formulations used to solve the problem are the well-known p-median and p-center models (Hakimi 1964-1965).
 
 # Description of the problem
