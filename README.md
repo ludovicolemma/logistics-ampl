@@ -4,7 +4,7 @@ The mathematical formulations used to solve the problem are the well-known p-med
 
 # Description of the problem
 A U.S. based company has to organize a distribution network composed of operating terminals in Altus, Ardmore, Bartlesville, Duncan, Edmond, Enid, Lawton, Muskogee, Oklahoma City, Ponca City, Stillwater and Tulsa. <br/> <br/>
-The managers has the budjet to open two hubs in the aforementioned cities and they face the problem of assigning each terminal to one of the two hubs by minimizing the transportation cost between the terminal, the hub and vice versa. Finally they also wants to compare a case in which, instead of minimizing the total costs, it is minimized the maximum cost of a terminal-hub connection. <br/> <br/>
+The managers has the budget to open two hubs in the aforementioned cities and they face the problem of assigning each terminal to one of the two hubs by minimizing the transportation cost between the terminal, the hub and vice versa. Finally they also wants to compare a case in which, instead of minimizing the total costs, it is minimized the maximum cost of a terminal-hub connection. <br/> <br/>
 The transportation cost is 0,74$ per mile while the overall cost of a terminal-hub connection is twice that number times the distance of the terminal-hub connection. <br/> <br/>
 The distances in miles between the Terminals were provided as it follows:
 
