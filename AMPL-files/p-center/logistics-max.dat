@@ -32,4 +32,4 @@ Ponca_City		1
 Stillwater		1
 Tulsa			1;
 
-param N_Facilities:=2;
+param N_Facilities:=2; 
